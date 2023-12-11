@@ -1,2 +1,2 @@
 # ToDoApp
-ToDoApp made with tutorial using SwiftUi. 
+ToDoApp made with tutorial using SwiftUi, MVVM and UserDefaults.
